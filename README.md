@@ -7,7 +7,7 @@ Hệ thống sử dụng PySpark và thuật toán LSH (Locality-Sensitive Hashi
 1. Phạm Quốc Anh B22DCKH006
 2. Nguyễn Trường Giang B22DCKH034
 3. Trương Quốc Bình B22DCKH008
-4. Đỗ Đức Dũng B22DCKH
+4. Đỗ Đức Dũng B22DCKH020
 
 ## 🛠️ Cài đặt môi trường
 1. Clone repository này về máy:
