@@ -6,3 +6,11 @@ Scrapy==2.11.1
 beautifulsoup4==4.12.3
 google-cloud-storage==2.14.0
 jupyterlab==4.1.2
+pymupdf
+datasketch
+rapidfuzz
+pandas
+pyarrow
+gcsfs
+tqdm
+numpy
